@@ -18,4 +18,6 @@ AdminEAP-web/src/main/resources/setting.properties
 AdminEAP-framework/target/*
 AdminEAP-web/target/*
 .gitignore.bak
+AdminEAP-web/*.iml
+AdminEAP-framework/*.iml
 
